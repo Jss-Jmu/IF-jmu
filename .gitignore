@@ -8,11 +8,6 @@ __pycache__/
 /images/
 /samples/
 /sweeps/
-/train.txt
-/test.txt
-/test_normal.txt
-/test_missing.txt
-/test_redundant.txt
-/test_others.txt
+/*.txt
 /DATASET_STATS.json
 /SHA256SUMS

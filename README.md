@@ -19,8 +19,6 @@ The newly prepared annotation contributions are released under
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 nuScenes-derived content remains subject to the
 [nuScenes terms](https://www.nuscenes.org/terms-of-use).
-See [LICENSE](LICENSE) and [ATTRIBUTION.md](ATTRIBUTION.md).
-
 Please acknowledge LM2CNet and nuScenes when using the nuScenes-based data.
 For Mono3DRefer, follow the attribution and citation instructions in the
 [original Mono3DVG repository](https://github.com/ZhanYang-nwpu/Mono3DVG).
