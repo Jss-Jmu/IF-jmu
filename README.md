@@ -1,5 +1,3 @@
-# IF-jmu
-
 nuScenes-based monocular 3D visual grounding annotations prepared by
 [Jss-Jmu](https://github.com/Jss-Jmu), following a dataset construction approach
 inspired by [LM2CNet](https://github.com/cv516Buaa/LM2CNet).
@@ -14,19 +12,6 @@ inspired by [LM2CNet](https://github.com/cv516Buaa/LM2CNet).
 
 The annotation download is `LM2CNet.json`. Images are obtained from nuScenes
 separately.
-
-## Dataset summary
-
-| Content | Count |
-| --- | ---: |
-| Expressions | 68,585 |
-| Image paths | 10,247 |
-| Cameras | 6 |
-
-Each record contains `im_name`, `key_frames`, `CAM`, `ann_id`, `objectName`,
-`description`, and `label_2`. `label_2` is stored as a string representing a
-15-element KITTI-style label list. Image paths use `/nuscenes` as the dataset
-root prefix.
 
 ## Attribution and license
 
